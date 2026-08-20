@@ -17,4 +17,12 @@
 |  |
 | ------- |
 | [0328-odd-even-linked-list](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0328-odd-even-linked-list) |
+## Array
+|  |
+| ------- |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/3069-distribute-elements-into-two-arrays-i) |
+## Simulation
+|  |
+| ------- |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/3069-distribute-elements-into-two-arrays-i) |
 <!---LeetCode Topics End-->
