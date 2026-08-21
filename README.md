@@ -27,6 +27,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0128-longest-consecutive-sequence) |
 | [0435-non-overlapping-intervals](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0435-non-overlapping-intervals) |
+| [0646-maximum-length-of-pair-chain](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0646-maximum-length-of-pair-chain) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Simulation
 |  |
@@ -42,11 +43,13 @@
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0435-non-overlapping-intervals](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0435-non-overlapping-intervals) |
+| [0646-maximum-length-of-pair-chain](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0646-maximum-length-of-pair-chain) |
 ## Greedy
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0435-non-overlapping-intervals](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0435-non-overlapping-intervals) |
+| [0646-maximum-length-of-pair-chain](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0646-maximum-length-of-pair-chain) |
 ## Hash Table
 |  |
 | ------- |
@@ -59,4 +62,9 @@
 |  |
 | ------- |
 | [0435-non-overlapping-intervals](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0435-non-overlapping-intervals) |
+| [0646-maximum-length-of-pair-chain](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0646-maximum-length-of-pair-chain) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0646-maximum-length-of-pair-chain](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0646-maximum-length-of-pair-chain) |
 <!---LeetCode Topics End-->
