@@ -6,6 +6,7 @@
 | ------- |
 | [0856-score-of-parentheses](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0856-score-of-parentheses) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
+| [1927-sum-game](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/1927-sum-game) |
 ## Stack
 |  |
 | ------- |
@@ -56,6 +57,7 @@
 | [0135-candy](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0135-candy) |
 | [0435-non-overlapping-intervals](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0435-non-overlapping-intervals) |
 | [0646-maximum-length-of-pair-chain](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0646-maximum-length-of-pair-chain) |
+| [1927-sum-game](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/1927-sum-game) |
 ## Hash Table
 |  |
 | ------- |
@@ -79,6 +81,7 @@
 ## Math
 |  |
 | ------- |
+| [1927-sum-game](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/1927-sum-game) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Quicksort
 |  |
@@ -88,4 +91,8 @@
 |  |
 | ------- |
 | [0974-subarray-sums-divisible-by-k](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0974-subarray-sums-divisible-by-k) |
+## Game Theory
+|  |
+| ------- |
+| [1927-sum-game](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/1927-sum-game) |
 <!---LeetCode Topics End-->
