@@ -39,6 +39,7 @@
 | [0646-maximum-length-of-pair-chain](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0646-maximum-length-of-pair-chain) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1200-minimum-absolute-difference](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/1200-minimum-absolute-difference) |
+| [1512-number-of-good-pairs](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/1512-number-of-good-pairs) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Simulation
 |  |
@@ -74,6 +75,7 @@
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0128-longest-consecutive-sequence) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1512-number-of-good-pairs](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/1512-number-of-good-pairs) |
 ## Union-Find
 |  |
 | ------- |
@@ -93,6 +95,7 @@
 ## Math
 |  |
 | ------- |
+| [1512-number-of-good-pairs](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/1512-number-of-good-pairs) |
 | [1903-largest-odd-number-in-string](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/1903-largest-odd-number-in-string) |
 | [1927-sum-game](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/1927-sum-game) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -113,4 +116,5 @@
 |  |
 | ------- |
 | [1221-split-a-string-in-balanced-strings](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/1221-split-a-string-in-balanced-strings) |
+| [1512-number-of-good-pairs](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/1512-number-of-good-pairs) |
 <!---LeetCode Topics End-->
