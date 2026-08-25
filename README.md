@@ -42,6 +42,7 @@
 | [0974-subarray-sums-divisible-by-k](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1200-minimum-absolute-difference](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/1200-minimum-absolute-difference) |
 | [1512-number-of-good-pairs](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/1512-number-of-good-pairs) |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Simulation
 |  |
@@ -53,6 +54,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0455-assign-cookies](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0455-assign-cookies) |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/2410-maximum-matching-of-players-with-trainers) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -73,6 +75,7 @@
 | [1663-smallest-string-with-a-given-numeric-value](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/1663-smallest-string-with-a-given-numeric-value) |
 | [1903-largest-odd-number-in-string](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/1903-largest-odd-number-in-string) |
 | [1927-sum-game](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/1927-sum-game) |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/2410-maximum-matching-of-players-with-trainers) |
 ## Hash Table
 |  |
 | ------- |
@@ -91,6 +94,7 @@
 | [0455-assign-cookies](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0455-assign-cookies) |
 | [0646-maximum-length-of-pair-chain](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0646-maximum-length-of-pair-chain) |
 | [1200-minimum-absolute-difference](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/1200-minimum-absolute-difference) |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/2410-maximum-matching-of-players-with-trainers) |
 ## Longest Increasing Subsequence
 |  |
 | ------- |
