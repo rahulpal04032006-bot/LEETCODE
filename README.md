@@ -29,6 +29,7 @@
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0055-jump-game](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0057-insert-interval) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -61,12 +62,14 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0435-non-overlapping-intervals](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0435-non-overlapping-intervals) |
 | [0646-maximum-length-of-pair-chain](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0646-maximum-length-of-pair-chain) |
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0135-candy) |
