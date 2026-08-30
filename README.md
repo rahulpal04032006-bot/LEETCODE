@@ -45,6 +45,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0128-longest-consecutive-sequence) |
 | [0134-gas-station](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0135-candy) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0435-non-overlapping-intervals](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0455-assign-cookies) |
@@ -227,6 +228,7 @@
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0222-count-complete-tree-nodes) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0875-koko-eating-bananas](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0875-koko-eating-bananas) |
 ## Bit Manipulation
 |  |
@@ -244,6 +246,7 @@
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0315-count-of-smaller-numbers-after-self) |
 ## String Matching
 |  |
 | ------- |
@@ -257,4 +260,24 @@
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0572-subtree-of-another-tree) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0315-count-of-smaller-numbers-after-self) |
+## Segment Tree
+|  |
+| ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0315-count-of-smaller-numbers-after-self) |
+## Merge Sort
+|  |
+| ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0315-count-of-smaller-numbers-after-self) |
+## Ordered Set
+|  |
+| ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0315-count-of-smaller-numbers-after-self) |
+## Treap
+|  |
+| ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0315-count-of-smaller-numbers-after-self) |
 <!---LeetCode Topics End-->
