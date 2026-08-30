@@ -130,6 +130,7 @@
 | [1512-number-of-good-pairs](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/1512-number-of-good-pairs) |
 | [1903-largest-odd-number-in-string](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/1903-largest-odd-number-in-string) |
 | [1927-sum-game](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/1927-sum-game) |
+| [2235-add-two-integers](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/2235-add-two-integers) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Quicksort
 |  |
