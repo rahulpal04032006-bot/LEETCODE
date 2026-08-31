@@ -179,6 +179,7 @@
 | [0543-diameter-of-binary-tree](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0572-subtree-of-another-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [0872-leaf-similar-trees](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0872-leaf-similar-trees) |
 | [0938-range-sum-of-bst](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0938-range-sum-of-bst) |
 | [0965-univalued-binary-tree](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0965-univalued-binary-tree) |
 ## Depth-First Search
@@ -196,6 +197,7 @@
 | [0543-diameter-of-binary-tree](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0572-subtree-of-another-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [0872-leaf-similar-trees](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0872-leaf-similar-trees) |
 | [0938-range-sum-of-bst](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0938-range-sum-of-bst) |
 | [0965-univalued-binary-tree](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0965-univalued-binary-tree) |
 ## Binary Tree
@@ -218,6 +220,7 @@
 | [0543-diameter-of-binary-tree](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0572-subtree-of-another-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [0872-leaf-similar-trees](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0872-leaf-similar-trees) |
 | [0938-range-sum-of-bst](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0938-range-sum-of-bst) |
 | [0965-univalued-binary-tree](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0965-univalued-binary-tree) |
 ## Breadth-First Search
