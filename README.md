@@ -14,6 +14,7 @@
 | [1663-smallest-string-with-a-given-numeric-value](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/1663-smallest-string-with-a-given-numeric-value) |
 | [1903-largest-odd-number-in-string](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/1903-largest-odd-number-in-string) |
 | [1927-sum-game](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/1927-sum-game) |
+| [2351-first-letter-to-appear-twice](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/2351-first-letter-to-appear-twice) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 ## Stack
 |  |
@@ -109,6 +110,7 @@
 | [0771-jewels-and-stones](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0771-jewels-and-stones) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1512-number-of-good-pairs](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/1512-number-of-good-pairs) |
+| [2351-first-letter-to-appear-twice](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/2351-first-letter-to-appear-twice) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Union-Find
@@ -157,6 +159,7 @@
 | ------- |
 | [1221-split-a-string-in-balanced-strings](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1512-number-of-good-pairs](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/1512-number-of-good-pairs) |
+| [2351-first-letter-to-appear-twice](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/2351-first-letter-to-appear-twice) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -264,6 +267,7 @@
 | ------- |
 | [0137-single-number-ii](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0137-single-number-ii) |
 | [0222-count-complete-tree-nodes](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0222-count-complete-tree-nodes) |
+| [2351-first-letter-to-appear-twice](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/2351-first-letter-to-appear-twice) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 ## Binary Search Tree
 |  |
