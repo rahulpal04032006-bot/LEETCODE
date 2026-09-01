@@ -186,6 +186,7 @@
 | [0872-leaf-similar-trees](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0872-leaf-similar-trees) |
 | [0938-range-sum-of-bst](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0938-range-sum-of-bst) |
 | [0965-univalued-binary-tree](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0965-univalued-binary-tree) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -205,6 +206,7 @@
 | [0872-leaf-similar-trees](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0872-leaf-similar-trees) |
 | [0938-range-sum-of-bst](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0938-range-sum-of-bst) |
 | [0965-univalued-binary-tree](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0965-univalued-binary-tree) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -230,6 +232,7 @@
 | [0872-leaf-similar-trees](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0872-leaf-similar-trees) |
 | [0938-range-sum-of-bst](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0938-range-sum-of-bst) |
 | [0965-univalued-binary-tree](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0965-univalued-binary-tree) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -242,6 +245,7 @@
 | [0404-sum-of-left-leaves](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0404-sum-of-left-leaves) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0965-univalued-binary-tree](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0965-univalued-binary-tree) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Binary Search
 |  |
 | ------- |
