@@ -62,6 +62,7 @@
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Simulation
 |  |
@@ -107,6 +108,7 @@
 | [0771-jewels-and-stones](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0771-jewels-and-stones) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1512-number-of-good-pairs](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/1512-number-of-good-pairs) |
+| [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Union-Find
 |  |
@@ -258,6 +260,7 @@
 | ------- |
 | [0137-single-number-ii](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0137-single-number-ii) |
 | [0222-count-complete-tree-nodes](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0222-count-complete-tree-nodes) |
+| [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 ## Binary Search Tree
 |  |
 | ------- |
