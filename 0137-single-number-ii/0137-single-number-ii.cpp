@@ -1,0 +1,12 @@
+class Solution {
+public:
+    int singleNumber(vector<int>& nums) {
+       int x = 0;
+       int y = 0;
+       for(int num:nums){
+        x = (x^num) & ~y;
+        y = (y^num) & ~x;
+       }
+       return x;
+    }
+};
