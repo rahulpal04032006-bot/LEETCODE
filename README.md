@@ -50,6 +50,7 @@
 | [0134-gas-station](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0135-candy) |
 | [0137-single-number-ii](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0137-single-number-ii) |
+| [0162-find-peak-element](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0162-find-peak-element) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0435-non-overlapping-intervals](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
@@ -264,6 +265,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0162-find-peak-element](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0162-find-peak-element) |
 | [0222-count-complete-tree-nodes](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0222-count-complete-tree-nodes) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0875-koko-eating-bananas](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0875-koko-eating-bananas) |
