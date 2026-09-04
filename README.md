@@ -215,6 +215,7 @@
 | [0872-leaf-similar-trees](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0872-leaf-similar-trees) |
 | [0938-range-sum-of-bst](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0938-range-sum-of-bst) |
 | [0965-univalued-binary-tree](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0965-univalued-binary-tree) |
+| [1026-maximum-difference-between-node-and-ancestor](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Depth-First Search
@@ -247,6 +248,7 @@
 | [0872-leaf-similar-trees](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0872-leaf-similar-trees) |
 | [0938-range-sum-of-bst](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0938-range-sum-of-bst) |
 | [0965-univalued-binary-tree](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0965-univalued-binary-tree) |
+| [1026-maximum-difference-between-node-and-ancestor](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Binary Tree
@@ -285,6 +287,7 @@
 | [0872-leaf-similar-trees](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0872-leaf-similar-trees) |
 | [0938-range-sum-of-bst](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0938-range-sum-of-bst) |
 | [0965-univalued-binary-tree](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0965-univalued-binary-tree) |
+| [1026-maximum-difference-between-node-and-ancestor](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Breadth-First Search
