@@ -233,6 +233,7 @@
 | [0965-univalued-binary-tree](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0965-univalued-binary-tree) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1325-delete-leaves-with-a-given-value](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/1325-delete-leaves-with-a-given-value) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Depth-First Search
 |  |
@@ -271,6 +272,7 @@
 | [0965-univalued-binary-tree](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0965-univalued-binary-tree) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1325-delete-leaves-with-a-given-value](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/1325-delete-leaves-with-a-given-value) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Binary Tree
 |  |
@@ -319,6 +321,7 @@
 | [0965-univalued-binary-tree](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0965-univalued-binary-tree) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1325-delete-leaves-with-a-given-value](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/1325-delete-leaves-with-a-given-value) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Breadth-First Search
 |  |
