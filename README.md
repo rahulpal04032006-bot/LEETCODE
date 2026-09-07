@@ -84,6 +84,7 @@
 |  |
 | ------- |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3304-find-the-k-th-character-in-string-game-i](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -159,6 +160,7 @@
 | [1903-largest-odd-number-in-string](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/1903-largest-odd-number-in-string) |
 | [1927-sum-game](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/1927-sum-game) |
 | [2235-add-two-integers](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/2235-add-two-integers) |
+| [3304-find-the-k-th-character-in-string-game-i](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3875-construct-uniform-parity-array-i](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -380,6 +382,7 @@
 | [0222-count-complete-tree-nodes](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0222-count-complete-tree-nodes) |
 | [2351-first-letter-to-appear-twice](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/2351-first-letter-to-appear-twice) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
+| [3304-find-the-k-th-character-in-string-game-i](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -470,4 +473,8 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0070-climbing-stairs) |
+## Recursion
+|  |
+| ------- |
+| [3304-find-the-k-th-character-in-string-game-i](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 <!---LeetCode Topics End-->
