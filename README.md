@@ -26,6 +26,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0145-binary-tree-postorder-traversal) |
 | [0173-binary-search-tree-iterator](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0173-binary-search-tree-iterator) |
 | [0402-remove-k-digits](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0402-remove-k-digits) |
+| [0654-maximum-binary-tree](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0654-maximum-binary-tree) |
 | [0856-score-of-parentheses](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0856-score-of-parentheses) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 ## Bracket Sequences
@@ -64,6 +65,7 @@
 | [0455-assign-cookies](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0455-assign-cookies) |
 | [0624-maximum-distance-in-arrays](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0624-maximum-distance-in-arrays) |
 | [0646-maximum-length-of-pair-chain](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0646-maximum-length-of-pair-chain) |
+| [0654-maximum-binary-tree](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0654-maximum-binary-tree) |
 | [0875-koko-eating-bananas](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0875-koko-eating-bananas) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1200-minimum-absolute-difference](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/1200-minimum-absolute-difference) |
@@ -183,6 +185,7 @@
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0402-remove-k-digits) |
+| [0654-maximum-binary-tree](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0654-maximum-binary-tree) |
 ## Sliding Window
 |  |
 | ------- |
@@ -229,6 +232,7 @@
 | [0538-convert-bst-to-greater-tree](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0538-convert-bst-to-greater-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0572-subtree-of-another-tree) |
+| [0654-maximum-binary-tree](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0654-maximum-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0662-maximum-width-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0700-search-in-a-binary-search-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0783-minimum-distance-between-bst-nodes) |
@@ -323,6 +327,7 @@
 | [0538-convert-bst-to-greater-tree](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0538-convert-bst-to-greater-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0572-subtree-of-another-tree) |
+| [0654-maximum-binary-tree](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0654-maximum-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0662-maximum-width-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0700-search-in-a-binary-search-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0783-minimum-distance-between-bst-nodes) |
@@ -393,6 +398,7 @@
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0654-maximum-binary-tree](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0654-maximum-binary-tree) |
 ## String Matching
 |  |
 | ------- |
@@ -451,4 +457,8 @@
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Cartesian Tree
+|  |
+| ------- |
+| [0654-maximum-binary-tree](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0654-maximum-binary-tree) |
 <!---LeetCode Topics End-->
