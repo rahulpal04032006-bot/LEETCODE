@@ -239,6 +239,7 @@
 | [0572-subtree-of-another-tree](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0572-subtree-of-another-tree) |
 | [0654-maximum-binary-tree](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0654-maximum-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0662-maximum-width-of-binary-tree) |
+| [0687-longest-univalue-path](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0687-longest-univalue-path) |
 | [0700-search-in-a-binary-search-tree](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0700-search-in-a-binary-search-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0814-binary-tree-pruning](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0814-binary-tree-pruning) |
@@ -283,6 +284,7 @@
 | [0543-diameter-of-binary-tree](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0572-subtree-of-another-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0662-maximum-width-of-binary-tree) |
+| [0687-longest-univalue-path](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0687-longest-univalue-path) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0814-binary-tree-pruning](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0814-binary-tree-pruning) |
 | [0872-leaf-similar-trees](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0872-leaf-similar-trees) |
@@ -336,6 +338,7 @@
 | [0572-subtree-of-another-tree](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0572-subtree-of-another-tree) |
 | [0654-maximum-binary-tree](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0654-maximum-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0662-maximum-width-of-binary-tree) |
+| [0687-longest-univalue-path](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0687-longest-univalue-path) |
 | [0700-search-in-a-binary-search-tree](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0700-search-in-a-binary-search-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0814-binary-tree-pruning](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0814-binary-tree-pruning) |
@@ -418,6 +421,7 @@
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0543-diameter-of-binary-tree) |
+| [0687-longest-univalue-path](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0687-longest-univalue-path) |
 ## Hash Function
 |  |
 | ------- |
