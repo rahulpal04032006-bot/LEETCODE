@@ -262,6 +262,7 @@
 | [1302-deepest-leaves-sum](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/1302-deepest-leaves-sum) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/1325-delete-leaves-with-a-given-value) |
+| [1339-maximum-product-of-splitted-binary-tree](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/1382-balance-a-binary-search-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Depth-First Search
@@ -310,6 +311,7 @@
 | [1302-deepest-leaves-sum](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/1302-deepest-leaves-sum) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/1325-delete-leaves-with-a-given-value) |
+| [1339-maximum-product-of-splitted-binary-tree](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/1382-balance-a-binary-search-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Binary Tree
@@ -371,6 +373,7 @@
 | [1302-deepest-leaves-sum](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/1302-deepest-leaves-sum) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/1325-delete-leaves-with-a-given-value) |
+| [1339-maximum-product-of-splitted-binary-tree](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/1382-balance-a-binary-search-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Breadth-First Search
