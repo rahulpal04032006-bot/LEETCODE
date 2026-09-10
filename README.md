@@ -104,6 +104,7 @@
 | [0124-binary-tree-maximum-path-sum](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0435-non-overlapping-intervals](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0435-non-overlapping-intervals) |
 | [0646-maximum-length-of-pair-chain](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0646-maximum-length-of-pair-chain) |
+| [1227-airplane-seat-assignment-probability](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/1227-airplane-seat-assignment-probability) |
 ## Greedy
 |  |
 | ------- |
@@ -162,6 +163,7 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0070-climbing-stairs) |
+| [1227-airplane-seat-assignment-probability](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/1227-airplane-seat-assignment-probability) |
 | [1512-number-of-good-pairs](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/1512-number-of-good-pairs) |
 | [1903-largest-odd-number-in-string](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/1903-largest-odd-number-in-string) |
 | [1927-sum-game](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/1927-sum-game) |
@@ -516,4 +518,12 @@
 |  |
 | ------- |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/3304-find-the-k-th-character-in-string-game-i) |
+## Brainteaser
+|  |
+| ------- |
+| [1227-airplane-seat-assignment-probability](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/1227-airplane-seat-assignment-probability) |
+## Probability and Statistics
+|  |
+| ------- |
+| [1227-airplane-seat-assignment-probability](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/1227-airplane-seat-assignment-probability) |
 <!---LeetCode Topics End-->
