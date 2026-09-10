@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0257-binary-tree-paths](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0257-binary-tree-paths) |
+| [0394-decode-string](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0402-remove-k-digits) |
 | [0449-serialize-and-deserialize-bst](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0449-serialize-and-deserialize-bst) |
 | [0771-jewels-and-stones](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0771-jewels-and-stones) |
@@ -25,6 +26,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0145-binary-tree-postorder-traversal) |
 | [0173-binary-search-tree-iterator](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0173-binary-search-tree-iterator) |
+| [0394-decode-string](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0402-remove-k-digits) |
 | [0654-maximum-binary-tree](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0654-maximum-binary-tree) |
 | [0856-score-of-parentheses](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0856-score-of-parentheses) |
@@ -526,6 +528,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0394-decode-string](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0394-decode-string) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 ## Brainteaser
 |  |
