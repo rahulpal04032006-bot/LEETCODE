@@ -283,6 +283,7 @@
 | [1448-count-good-nodes-in-binary-tree](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1609-even-odd-tree](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/1609-even-odd-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+| [3997-count-dominant-nodes-in-a-binary-tree](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/3997-count-dominant-nodes-in-a-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -335,6 +336,7 @@
 | [1382-balance-a-binary-search-tree](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/1382-balance-a-binary-search-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+| [3997-count-dominant-nodes-in-a-binary-tree](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/3997-count-dominant-nodes-in-a-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -402,6 +404,7 @@
 | [1448-count-good-nodes-in-binary-tree](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1609-even-odd-tree](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/1609-even-odd-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+| [3997-count-dominant-nodes-in-a-binary-tree](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/3997-count-dominant-nodes-in-a-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
