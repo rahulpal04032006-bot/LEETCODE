@@ -48,6 +48,7 @@
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0004-median-of-two-sorted-arrays) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0041-first-missing-positive](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0041-first-missing-positive) |
 | [0055-jump-game](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0055-jump-game) |
@@ -439,6 +440,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0004-median-of-two-sorted-arrays) |
 | [0162-find-peak-element](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0162-find-peak-element) |
 | [0222-count-complete-tree-nodes](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0222-count-complete-tree-nodes) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0315-count-of-smaller-numbers-after-self) |
@@ -475,6 +477,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0004-median-of-two-sorted-arrays) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
