@@ -67,6 +67,7 @@
 | [0164-maximum-gap](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0164-maximum-gap) |
 | [0215-kth-largest-element-in-an-array](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0215-kth-largest-element-in-an-array) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0435-non-overlapping-intervals](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0455-assign-cookies) |
@@ -159,6 +160,7 @@
 | [0056-merge-intervals](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0056-merge-intervals) |
 | [0164-maximum-gap](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0164-maximum-gap) |
 | [0215-kth-largest-element-in-an-array](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0215-kth-largest-element-in-an-array) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0435-non-overlapping-intervals](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0455-assign-cookies) |
@@ -444,6 +446,7 @@
 | [0162-find-peak-element](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0162-find-peak-element) |
 | [0222-count-complete-tree-nodes](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0222-count-complete-tree-nodes) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0875-koko-eating-bananas](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0875-koko-eating-bananas) |
 ## Bit Manipulation
 |  |
@@ -589,8 +592,13 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0215-kth-largest-element-in-an-array) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 ## Quickselect
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0215-kth-largest-element-in-an-array) |
+## Matrix
+|  |
+| ------- |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 <!---LeetCode Topics End-->
