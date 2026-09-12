@@ -178,6 +178,7 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0070-climbing-stairs) |
+| [0668-kth-smallest-number-in-multiplication-table](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [1227-airplane-seat-assignment-probability](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/1227-airplane-seat-assignment-probability) |
 | [1512-number-of-good-pairs](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/1512-number-of-good-pairs) |
 | [1903-largest-odd-number-in-string](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/1903-largest-odd-number-in-string) |
@@ -447,6 +448,7 @@
 | [0222-count-complete-tree-nodes](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0222-count-complete-tree-nodes) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0668-kth-smallest-number-in-multiplication-table](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [0875-koko-eating-bananas](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0875-koko-eating-bananas) |
 ## Bit Manipulation
 |  |
