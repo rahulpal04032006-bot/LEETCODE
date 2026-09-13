@@ -52,6 +52,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0004-median-of-two-sorted-arrays) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0039-combination-sum](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0040-combination-sum-ii) |
 | [0041-first-missing-positive](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0041-first-missing-positive) |
 | [0055-jump-game](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0056-merge-intervals) |
@@ -560,6 +561,7 @@
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0040-combination-sum-ii) |
 | [0113-path-sum-ii](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0113-path-sum-ii) |
 | [0131-palindrome-partitioning](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0131-palindrome-partitioning) |
 | [0257-binary-tree-paths](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0257-binary-tree-paths) |
