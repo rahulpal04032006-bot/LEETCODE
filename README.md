@@ -185,6 +185,7 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0070-climbing-stairs) |
+| [0292-nim-game](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0292-nim-game) |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [0836-rectangle-overlap](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0836-rectangle-overlap) |
 | [1227-airplane-seat-assignment-probability](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/1227-airplane-seat-assignment-probability) |
@@ -212,6 +213,7 @@
 ## Game Theory
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0292-nim-game) |
 | [1927-sum-game](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/1927-sum-game) |
 ## Counting
 |  |
@@ -593,6 +595,7 @@
 ## Brainteaser
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0292-nim-game) |
 | [1227-airplane-seat-assignment-probability](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/1227-airplane-seat-assignment-probability) |
 ## Probability and Statistics
 |  |
@@ -631,4 +634,16 @@
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0836-rectangle-overlap) |
+## Minimax
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0292-nim-game) |
+## Nim Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0292-nim-game) |
+## Impartial Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
