@@ -4,6 +4,7 @@
 ## String
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0049-group-anagrams) |
 | [0131-palindrome-partitioning](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0131-palindrome-partitioning) |
 | [0257-binary-tree-paths](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0257-binary-tree-paths) |
 | [0394-decode-string](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0394-decode-string) |
@@ -57,6 +58,7 @@
 | [0039-combination-sum](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0040-combination-sum-ii) |
 | [0041-first-missing-positive](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0041-first-missing-positive) |
+| [0049-group-anagrams](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0057-insert-interval) |
@@ -149,6 +151,7 @@
 |  |
 | ------- |
 | [0041-first-missing-positive](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0041-first-missing-positive) |
+| [0049-group-anagrams](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0049-group-anagrams) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0128-longest-consecutive-sequence) |
@@ -171,6 +174,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0056-merge-intervals) |
 | [0164-maximum-gap](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0164-maximum-gap) |
 | [0215-kth-largest-element-in-an-array](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0215-kth-largest-element-in-an-array) |
