@@ -53,6 +53,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0004-median-of-two-sorted-arrays) |
+| [0015-3sum](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0031-next-permutation) |
 | [0039-combination-sum](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0039-combination-sum) |
@@ -109,6 +110,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0031-next-permutation) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -175,6 +177,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0056-merge-intervals) |
 | [0164-maximum-gap](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0164-maximum-gap) |
