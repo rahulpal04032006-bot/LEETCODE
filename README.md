@@ -4,6 +4,7 @@
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0005-longest-palindromic-substring) |
 | [0049-group-anagrams](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0049-group-anagrams) |
 | [0131-palindrome-partitioning](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0131-palindrome-partitioning) |
 | [0257-binary-tree-paths](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0257-binary-tree-paths) |
@@ -113,6 +114,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0005-longest-palindromic-substring) |
 | [0015-3sum](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0018-4sum) |
@@ -125,6 +127,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0005-longest-palindromic-substring) |
 | [0055-jump-game](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0070-climbing-stairs) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -697,4 +700,8 @@
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0292-nim-game) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
