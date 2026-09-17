@@ -169,6 +169,7 @@
 | [0652-find-duplicate-subtrees](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0652-find-duplicate-subtrees) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0771-jewels-and-stones](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0771-jewels-and-stones) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
@@ -317,6 +318,7 @@
 | [0701-insert-into-a-binary-search-tree](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0814-binary-tree-pruning](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0814-binary-tree-pruning) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0872-leaf-similar-trees](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0872-leaf-similar-trees) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0938-range-sum-of-bst](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0938-range-sum-of-bst) |
@@ -382,6 +384,7 @@
 | [0687-longest-univalue-path](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0687-longest-univalue-path) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0814-binary-tree-pruning](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0814-binary-tree-pruning) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0872-leaf-similar-trees](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0872-leaf-similar-trees) |
 | [0938-range-sum-of-bst](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0938-range-sum-of-bst) |
 | [0965-univalued-binary-tree](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0965-univalued-binary-tree) |
@@ -456,6 +459,7 @@
 | [0701-insert-into-a-binary-search-tree](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0814-binary-tree-pruning](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0814-binary-tree-pruning) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0872-leaf-similar-trees](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0872-leaf-similar-trees) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0938-range-sum-of-bst](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0938-range-sum-of-bst) |
@@ -501,6 +505,7 @@
 | [0655-print-binary-tree](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0655-print-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0662-maximum-width-of-binary-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0965-univalued-binary-tree](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0965-univalued-binary-tree) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
@@ -576,6 +581,7 @@
 | [0124-binary-tree-maximum-path-sum](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0543-diameter-of-binary-tree) |
 | [0687-longest-univalue-path](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0687-longest-univalue-path) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Hash Function
@@ -625,12 +631,14 @@
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 ## Lowest Common Ancestor
 |  |
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 ## Cartesian Tree
 |  |
