@@ -316,6 +316,7 @@
 | [0655-print-binary-tree](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0655-print-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0662-maximum-width-of-binary-tree) |
 | [0669-trim-a-binary-search-tree](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0669-trim-a-binary-search-tree) |
+| [0671-second-minimum-node-in-a-binary-tree](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0687-longest-univalue-path](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0687-longest-univalue-path) |
 | [0700-search-in-a-binary-search-tree](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0701-insert-into-a-binary-search-tree) |
@@ -385,6 +386,7 @@
 | [0655-print-binary-tree](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0655-print-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0662-maximum-width-of-binary-tree) |
 | [0669-trim-a-binary-search-tree](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0669-trim-a-binary-search-tree) |
+| [0671-second-minimum-node-in-a-binary-tree](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0687-longest-univalue-path](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0687-longest-univalue-path) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0814-binary-tree-pruning](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0814-binary-tree-pruning) |
@@ -459,6 +461,7 @@
 | [0655-print-binary-tree](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0655-print-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0662-maximum-width-of-binary-tree) |
 | [0669-trim-a-binary-search-tree](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0669-trim-a-binary-search-tree) |
+| [0671-second-minimum-node-in-a-binary-tree](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0687-longest-univalue-path](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0687-longest-univalue-path) |
 | [0700-search-in-a-binary-search-tree](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0701-insert-into-a-binary-search-tree) |
