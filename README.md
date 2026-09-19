@@ -347,6 +347,7 @@
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
 | [1302-deepest-leaves-sum](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/1302-deepest-leaves-sum) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/1305-all-elements-in-two-binary-search-trees) |
+| [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/1325-delete-leaves-with-a-given-value) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/1373-maximum-sum-bst-in-binary-tree) |
@@ -412,6 +413,7 @@
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
 | [1302-deepest-leaves-sum](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/1302-deepest-leaves-sum) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/1305-all-elements-in-two-binary-search-trees) |
+| [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/1325-delete-leaves-with-a-given-value) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/1373-maximum-sum-bst-in-binary-tree) |
@@ -493,6 +495,7 @@
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
 | [1302-deepest-leaves-sum](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/1302-deepest-leaves-sum) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/1305-all-elements-in-two-binary-search-trees) |
+| [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/1325-delete-leaves-with-a-given-value) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/1373-maximum-sum-bst-in-binary-tree) |
@@ -533,6 +536,7 @@
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
 | [1302-deepest-leaves-sum](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/1302-deepest-leaves-sum) |
+| [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1609-even-odd-tree](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/1609-even-odd-tree) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
