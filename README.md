@@ -231,6 +231,7 @@
 | ------- |
 | [0012-integer-to-roman](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0013-roman-to-integer) |
+| [0060-permutation-sequence](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0060-permutation-sequence) |
 | [0070-climbing-stairs](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0070-climbing-stairs) |
 | [0292-nim-game](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0292-nim-game) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
@@ -693,6 +694,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0060-permutation-sequence](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0060-permutation-sequence) |
 | [0394-decode-string](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0394-decode-string) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/3483-unique-3-digit-even-numbers) |
