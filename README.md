@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0005-longest-palindromic-substring) |
+| [0012-integer-to-roman](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0012-integer-to-roman) |
 | [0049-group-anagrams](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0049-group-anagrams) |
 | [0131-palindrome-partitioning](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0131-palindrome-partitioning) |
 | [0257-binary-tree-paths](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0257-binary-tree-paths) |
@@ -170,6 +171,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0012-integer-to-roman) |
 | [0041-first-missing-positive](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0049-group-anagrams) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -225,6 +227,7 @@
 ## Math
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0012-integer-to-roman) |
 | [0070-climbing-stairs](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0070-climbing-stairs) |
 | [0292-nim-game](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0292-nim-game) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
