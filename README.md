@@ -102,6 +102,7 @@
 | [0848-shifting-letters](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0848-shifting-letters) |
 | [0875-koko-eating-bananas](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0875-koko-eating-bananas) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [0973-k-closest-points-to-origin](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0973-k-closest-points-to-origin) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1200-minimum-absolute-difference](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/1200-minimum-absolute-difference) |
@@ -220,6 +221,7 @@
 | [0455-assign-cookies](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0455-assign-cookies) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0646-maximum-length-of-pair-chain](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0646-maximum-length-of-pair-chain) |
+| [0973-k-closest-points-to-origin](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0973-k-closest-points-to-origin) |
 | [1200-minimum-absolute-difference](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/1200-minimum-absolute-difference) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/2410-maximum-matching-of-players-with-trainers) |
@@ -241,6 +243,7 @@
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [0836-rectangle-overlap](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0836-rectangle-overlap) |
+| [0973-k-closest-points-to-origin](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0973-k-closest-points-to-origin) |
 | [1227-airplane-seat-assignment-probability](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/1227-airplane-seat-assignment-probability) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1512-number-of-good-pairs](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/1512-number-of-good-pairs) |
@@ -614,6 +617,7 @@
 | [0315-count-of-smaller-numbers-after-self](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0654-maximum-binary-tree](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0654-maximum-binary-tree) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [0973-k-closest-points-to-origin](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0973-k-closest-points-to-origin) |
 | [1382-balance-a-binary-search-tree](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/1382-balance-a-binary-search-tree) |
 ## String Matching
 |  |
@@ -734,10 +738,12 @@
 | [0023-merge-k-sorted-lists](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0215-kth-largest-element-in-an-array) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0973-k-closest-points-to-origin](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0973-k-closest-points-to-origin) |
 ## Quickselect
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0215-kth-largest-element-in-an-array) |
+| [0973-k-closest-points-to-origin](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0973-k-closest-points-to-origin) |
 ## Matrix
 |  |
 | ------- |
@@ -746,6 +752,7 @@
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0836-rectangle-overlap) |
+| [0973-k-closest-points-to-origin](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0973-k-closest-points-to-origin) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/1401-circle-and-rectangle-overlapping) |
 ## Minimax
 |  |
@@ -767,4 +774,8 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0023-merge-k-sorted-lists) |
+## K-D Tree
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0973-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
