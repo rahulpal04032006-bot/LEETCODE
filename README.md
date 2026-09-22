@@ -144,6 +144,7 @@
 | [0005-longest-palindromic-substring](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0005-longest-palindromic-substring) |
 | [0055-jump-game](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0070-climbing-stairs) |
+| [0096-unique-binary-search-trees](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0096-unique-binary-search-trees) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0131-palindrome-partitioning) |
@@ -238,6 +239,7 @@
 | [0013-roman-to-integer](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0013-roman-to-integer) |
 | [0060-permutation-sequence](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0060-permutation-sequence) |
 | [0070-climbing-stairs](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0070-climbing-stairs) |
+| [0096-unique-binary-search-trees](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0096-unique-binary-search-trees) |
 | [0171-excel-sheet-column-number](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0171-excel-sheet-column-number) |
 | [0292-nim-game](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0292-nim-game) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
@@ -294,6 +296,7 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0094-binary-tree-inorder-traversal) |
+| [0096-unique-binary-search-trees](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0100-same-tree) |
@@ -443,6 +446,7 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0094-binary-tree-inorder-traversal) |
+| [0096-unique-binary-search-trees](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0100-same-tree) |
@@ -582,6 +586,7 @@
 ## Binary Search Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0099-recover-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
