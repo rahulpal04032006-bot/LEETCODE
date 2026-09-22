@@ -337,6 +337,7 @@
 | [0530-minimum-absolute-difference-in-bst](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0538-convert-bst-to-greater-tree](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0538-convert-bst-to-greater-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0543-diameter-of-binary-tree) |
+| [0563-binary-tree-tilt](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0563-binary-tree-tilt) |
 | [0572-subtree-of-another-tree](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0572-subtree-of-another-tree) |
 | [0606-construct-string-from-binary-tree](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0606-construct-string-from-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0617-merge-two-binary-trees) |
@@ -411,6 +412,7 @@
 | [0530-minimum-absolute-difference-in-bst](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0538-convert-bst-to-greater-tree](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0538-convert-bst-to-greater-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0543-diameter-of-binary-tree) |
+| [0563-binary-tree-tilt](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0563-binary-tree-tilt) |
 | [0572-subtree-of-another-tree](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0572-subtree-of-another-tree) |
 | [0606-construct-string-from-binary-tree](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0606-construct-string-from-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0617-merge-two-binary-trees) |
@@ -487,6 +489,7 @@
 | [0530-minimum-absolute-difference-in-bst](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0538-convert-bst-to-greater-tree](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0538-convert-bst-to-greater-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0543-diameter-of-binary-tree) |
+| [0563-binary-tree-tilt](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0563-binary-tree-tilt) |
 | [0572-subtree-of-another-tree](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0572-subtree-of-another-tree) |
 | [0606-construct-string-from-binary-tree](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0606-construct-string-from-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0617-merge-two-binary-trees) |
@@ -634,6 +637,7 @@
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0543-diameter-of-binary-tree) |
+| [0563-binary-tree-tilt](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0563-binary-tree-tilt) |
 | [0687-longest-univalue-path](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0687-longest-univalue-path) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
