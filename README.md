@@ -86,6 +86,7 @@
 | [0162-find-peak-element](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0162-find-peak-element) |
 | [0164-maximum-gap](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0164-maximum-gap) |
 | [0215-kth-largest-element-in-an-array](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0215-kth-largest-element-in-an-array) |
+| [0216-combination-sum-iii](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0216-combination-sum-iii) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -696,6 +697,7 @@
 | [0077-combinations](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0077-combinations) |
 | [0113-path-sum-ii](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0113-path-sum-ii) |
 | [0131-palindrome-partitioning](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0131-palindrome-partitioning) |
+| [0216-combination-sum-iii](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0216-combination-sum-iii) |
 | [0257-binary-tree-paths](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0257-binary-tree-paths) |
 ## Binary Lifting
 |  |
