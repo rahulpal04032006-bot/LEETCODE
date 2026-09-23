@@ -107,6 +107,7 @@
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1200-minimum-absolute-difference](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/1200-minimum-absolute-difference) |
 | [1512-number-of-good-pairs](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/1512-number-of-good-pairs) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -195,6 +196,7 @@
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
 | [1512-number-of-good-pairs](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/1512-number-of-good-pairs) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2351-first-letter-to-appear-twice](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/2351-first-letter-to-appear-twice) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3483-unique-3-digit-even-numbers](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/3483-unique-3-digit-even-numbers) |
@@ -268,6 +270,7 @@
 | ------- |
 | [0848-shifting-letters](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0848-shifting-letters) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3903-smallest-stable-index-i](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/3904-smallest-stable-index-ii) |
 ## Game Theory
@@ -291,6 +294,7 @@
 |  |
 | ------- |
 | [0413-arithmetic-slices](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0413-arithmetic-slices) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 ## Tree
 |  |
@@ -582,6 +586,7 @@
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [0875-koko-eating-bananas](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0875-koko-eating-bananas) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Bit Manipulation
 |  |
 | ------- |
