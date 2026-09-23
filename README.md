@@ -55,6 +55,7 @@
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0138-copy-list-with-random-pointer](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0138-copy-list-with-random-pointer) |
 | [0237-delete-node-in-a-linked-list](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0328-odd-even-linked-list) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
@@ -186,6 +187,7 @@
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0128-longest-consecutive-sequence) |
+| [0138-copy-list-with-random-pointer](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0138-copy-list-with-random-pointer) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0454-4sum-ii](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0454-4sum-ii) |
 | [0652-find-duplicate-subtrees](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0652-find-duplicate-subtrees) |
