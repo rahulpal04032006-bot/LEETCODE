@@ -60,6 +60,7 @@
 | [0138-copy-list-with-random-pointer](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0138-copy-list-with-random-pointer) |
 | [0237-delete-node-in-a-linked-list](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0328-odd-even-linked-list) |
+| [1367-linked-list-in-binary-tree](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/1367-linked-list-in-binary-tree) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 ## Array
 |  |
@@ -389,6 +390,7 @@
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/1325-delete-leaves-with-a-given-value) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/1339-maximum-product-of-splitted-binary-tree) |
+| [1367-linked-list-in-binary-tree](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/1367-linked-list-in-binary-tree) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/1382-balance-a-binary-search-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/1448-count-good-nodes-in-binary-tree) |
@@ -457,6 +459,7 @@
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/1325-delete-leaves-with-a-given-value) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/1339-maximum-product-of-splitted-binary-tree) |
+| [1367-linked-list-in-binary-tree](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/1367-linked-list-in-binary-tree) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/1382-balance-a-binary-search-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/1448-count-good-nodes-in-binary-tree) |
@@ -543,6 +546,7 @@
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/1325-delete-leaves-with-a-given-value) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/1339-maximum-product-of-splitted-binary-tree) |
+| [1367-linked-list-in-binary-tree](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/1367-linked-list-in-binary-tree) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/1382-balance-a-binary-search-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/1448-count-good-nodes-in-binary-tree) |
