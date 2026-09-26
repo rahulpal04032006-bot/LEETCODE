@@ -15,6 +15,7 @@
 | [0171-excel-sheet-column-number](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0171-excel-sheet-column-number) |
 | [0257-binary-tree-paths](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0257-binary-tree-paths) |
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
+| [0345-reverse-vowels-of-a-string](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0345-reverse-vowels-of-a-string) |
 | [0394-decode-string](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0402-remove-k-digits) |
 | [0449-serialize-and-deserialize-bst](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0449-serialize-and-deserialize-bst) |
@@ -145,6 +146,7 @@
 | [0031-next-permutation](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0031-next-permutation) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0165-compare-version-numbers](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0165-compare-version-numbers) |
+| [0345-reverse-vowels-of-a-string](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0345-reverse-vowels-of-a-string) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0455-assign-cookies) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0653-two-sum-iv-input-is-a-bst) |
