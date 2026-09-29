@@ -55,6 +55,7 @@
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [1441-build-an-array-with-stack-operations](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/1441-build-an-array-with-stack-operations) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -76,6 +77,7 @@
 | [1019-next-greater-node-in-linked-list](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/1019-next-greater-node-in-linked-list) |
 | [1367-linked-list-in-binary-tree](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/1367-linked-list-in-binary-tree) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Array
 |  |
 | ------- |
@@ -166,6 +168,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0455-assign-cookies) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/2410-maximum-matching-of-players-with-trainers) |
 ## Dynamic Programming
 |  |
