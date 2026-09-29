@@ -58,6 +58,7 @@
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2000-reverse-prefix-of-word](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/2000-reverse-prefix-of-word) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
+| [2487-remove-nodes-from-linked-list](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/2487-remove-nodes-from-linked-list) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -80,6 +81,7 @@
 | [1367-linked-list-in-binary-tree](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/1367-linked-list-in-binary-tree) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
+| [2487-remove-nodes-from-linked-list](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/2487-remove-nodes-from-linked-list) |
 ## Array
 |  |
 | ------- |
@@ -334,6 +336,7 @@
 | [0654-maximum-binary-tree](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0654-maximum-binary-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1019-next-greater-node-in-linked-list](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/1019-next-greater-node-in-linked-list) |
+| [2487-remove-nodes-from-linked-list](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/2487-remove-nodes-from-linked-list) |
 ## Sliding Window
 |  |
 | ------- |
@@ -781,6 +784,7 @@
 | ------- |
 | [0060-permutation-sequence](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0060-permutation-sequence) |
 | [0394-decode-string](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0394-decode-string) |
+| [2487-remove-nodes-from-linked-list](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/2487-remove-nodes-from-linked-list) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/3483-unique-3-digit-even-numbers) |
 ## Brainteaser
