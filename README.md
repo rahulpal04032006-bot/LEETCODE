@@ -37,6 +37,7 @@
 | [1927-sum-game](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/1927-sum-game) |
 | [2000-reverse-prefix-of-word](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/2000-reverse-prefix-of-word) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/2053-kth-distinct-string-in-an-array) |
+| [2325-decode-the-message](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/2325-decode-the-message) |
 | [2351-first-letter-to-appear-twice](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/2351-first-letter-to-appear-twice) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
@@ -262,6 +263,7 @@
 | [1512-number-of-good-pairs](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/1512-number-of-good-pairs) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/2053-kth-distinct-string-in-an-array) |
+| [2325-decode-the-message](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/2325-decode-the-message) |
 | [2351-first-letter-to-appear-twice](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/2351-first-letter-to-appear-twice) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3483-unique-3-digit-even-numbers](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/3483-unique-3-digit-even-numbers) |
