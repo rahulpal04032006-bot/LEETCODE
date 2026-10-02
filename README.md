@@ -150,6 +150,7 @@
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1019-next-greater-node-in-linked-list](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/1019-next-greater-node-in-linked-list) |
 | [1200-minimum-absolute-difference](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/1200-minimum-absolute-difference) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1441-build-an-array-with-stack-operations](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/1441-build-an-array-with-stack-operations) |
 | [1512-number-of-good-pairs](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/1512-number-of-good-pairs) |
 | [1567-maximum-length-of-subarray-with-positive-product](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/1567-maximum-length-of-subarray-with-positive-product) |
@@ -260,6 +261,7 @@
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1189-maximum-number-of-balloons](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/1189-maximum-number-of-balloons) |
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/1512-number-of-good-pairs) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/2053-kth-distinct-string-in-an-array) |
@@ -355,6 +357,7 @@
 | [0383-ransom-note](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0383-ransom-note) |
 | [1189-maximum-number-of-balloons](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/1189-maximum-number-of-balloons) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/1221-split-a-string-in-balanced-strings) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/1512-number-of-good-pairs) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2351-first-letter-to-appear-twice](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/2351-first-letter-to-appear-twice) |
