@@ -43,6 +43,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0020-valid-parentheses) |
+| [0085-maximal-rectangle](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0085-maximal-rectangle) |
 | [0094-binary-tree-inorder-traversal](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0094-binary-tree-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0144-binary-tree-preorder-traversal) |
@@ -110,6 +111,7 @@
 | [0056-merge-intervals](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0057-insert-interval) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0085-maximal-rectangle](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0085-maximal-rectangle) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -197,6 +199,7 @@
 | [0022-generate-parentheses](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0022-generate-parentheses) |
 | [0055-jump-game](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0070-climbing-stairs) |
+| [0085-maximal-rectangle](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0085-maximal-rectangle) |
 | [0096-unique-binary-search-trees](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0096-unique-binary-search-trees) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -349,6 +352,7 @@
 ## Monotonic Stack
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0085-maximal-rectangle) |
 | [0402-remove-k-digits](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0402-remove-k-digits) |
 | [0654-maximum-binary-tree](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0654-maximum-binary-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
@@ -846,6 +850,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0085-maximal-rectangle) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 ## Geometry
 |  |
