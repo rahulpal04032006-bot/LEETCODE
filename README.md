@@ -91,6 +91,7 @@
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0138-copy-list-with-random-pointer](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0138-copy-list-with-random-pointer) |
+| [0146-lru-cache](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0146-lru-cache) |
 | [0237-delete-node-in-a-linked-list](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0328-odd-even-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0445-add-two-numbers-ii) |
@@ -253,6 +254,7 @@
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0128-longest-consecutive-sequence) |
 | [0138-copy-list-with-random-pointer](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0138-copy-list-with-random-pointer) |
+| [0146-lru-cache](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0146-lru-cache) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0383-ransom-note](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0383-ransom-note) |
 | [0454-4sum-ii](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0454-4sum-ii) |
@@ -776,6 +778,7 @@
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0146-lru-cache) |
 | [0173-binary-search-tree-iterator](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0173-binary-search-tree-iterator) |
 | [0449-serialize-and-deserialize-bst](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0449-serialize-and-deserialize-bst) |
 | [0919-complete-binary-tree-inserter](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0919-complete-binary-tree-inserter) |
@@ -898,4 +901,8 @@
 |  |
 | ------- |
 | [0973-k-closest-points-to-origin](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0973-k-closest-points-to-origin) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
