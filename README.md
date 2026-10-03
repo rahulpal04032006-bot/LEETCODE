@@ -10,6 +10,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0032-longest-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0049-group-anagrams) |
 | [0131-palindrome-partitioning](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0131-palindrome-partitioning) |
 | [0165-compare-version-numbers](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0165-compare-version-numbers) |
@@ -46,6 +47,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0032-longest-valid-parentheses) |
 | [0085-maximal-rectangle](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0085-maximal-rectangle) |
 | [0094-binary-tree-inorder-traversal](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0094-binary-tree-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0114-flatten-binary-tree-to-linked-list) |
@@ -76,6 +78,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0032-longest-valid-parentheses) |
 | [0856-score-of-parentheses](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0856-score-of-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -202,6 +205,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0032-longest-valid-parentheses) |
 | [0055-jump-game](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0085-maximal-rectangle) |
