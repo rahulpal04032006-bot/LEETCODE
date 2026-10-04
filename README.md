@@ -181,6 +181,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0258-add-digits) |
 | [1441-build-an-array-with-stack-operations](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/1441-build-an-array-with-stack-operations) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -328,6 +329,7 @@
 | [0168-excel-sheet-column-title](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0171-excel-sheet-column-number) |
 | [0172-factorial-trailing-zeroes](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0172-factorial-trailing-zeroes) |
+| [0258-add-digits](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0258-add-digits) |
 | [0292-nim-game](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0292-nim-game) |
 | [0445-add-two-numbers-ii](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0445-add-two-numbers-ii) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
@@ -913,4 +915,8 @@
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0146-lru-cache) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
