@@ -168,6 +168,7 @@
 | [2053-kth-distinct-string-in-an-array](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/2410-maximum-matching-of-players-with-trainers) |
+| [2784-check-if-array-is-good](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/2784-check-if-array-is-good) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
@@ -280,6 +281,7 @@
 | [2053-kth-distinct-string-in-an-array](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2325-decode-the-message](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/2325-decode-the-message) |
 | [2351-first-letter-to-appear-twice](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/2351-first-letter-to-appear-twice) |
+| [2784-check-if-array-is-good](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/2784-check-if-array-is-good) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3483-unique-3-digit-even-numbers](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/3483-unique-3-digit-even-numbers) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -313,6 +315,7 @@
 | [1996-the-number-of-weak-characters-in-the-game](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/1996-the-number-of-weak-characters-in-the-game) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
+| [2784-check-if-array-is-good](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/2784-check-if-array-is-good) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Longest Increasing Subsequence
 |  |
