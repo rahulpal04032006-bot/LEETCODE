@@ -104,6 +104,7 @@
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
+| [2181-merge-nodes-in-between-zeros](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/2181-merge-nodes-in-between-zeros) |
 | [2487-remove-nodes-from-linked-list](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/2487-remove-nodes-from-linked-list) |
 ## Array
 |  |
@@ -184,6 +185,7 @@
 | ------- |
 | [0258-add-digits](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0258-add-digits) |
 | [1441-build-an-array-with-stack-operations](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/1441-build-an-array-with-stack-operations) |
+| [2181-merge-nodes-in-between-zeros](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/2181-merge-nodes-in-between-zeros) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/3304-find-the-k-th-character-in-string-game-i) |
