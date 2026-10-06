@@ -29,6 +29,7 @@
 | [0796-rotate-string](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0796-rotate-string) |
 | [0848-shifting-letters](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0848-shifting-letters) |
 | [0856-score-of-parentheses](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1189-maximum-number-of-balloons](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/1189-maximum-number-of-balloons) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -63,6 +64,7 @@
 | [0654-maximum-binary-tree](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0654-maximum-binary-tree) |
 | [0678-valid-parenthesis-string](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1019-next-greater-node-in-linked-list](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/1019-next-greater-node-in-linked-list) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
@@ -84,6 +86,7 @@
 | [0032-longest-valid-parentheses](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -243,6 +246,7 @@
 | [0624-maximum-distance-in-arrays](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0624-maximum-distance-in-arrays) |
 | [0646-maximum-length-of-pair-chain](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0646-maximum-length-of-pair-chain) |
 | [0678-valid-parenthesis-string](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0678-valid-parenthesis-string) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1382-balance-a-binary-search-tree](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/1382-balance-a-binary-search-tree) |
 | [1567-maximum-length-of-subarray-with-positive-product](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/1567-maximum-length-of-subarray-with-positive-product) |
