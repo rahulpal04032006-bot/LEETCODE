@@ -36,6 +36,7 @@
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/1221-split-a-string-in-balanced-strings) |
+| [1249-minimum-remove-to-make-valid-parentheses](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1663-smallest-string-with-a-given-numeric-value](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/1663-smallest-string-with-a-given-numeric-value) |
 | [1903-largest-odd-number-in-string](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/1903-largest-odd-number-in-string) |
@@ -72,6 +73,7 @@
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
+| [1249-minimum-remove-to-make-valid-parentheses](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1441-build-an-array-with-stack-operations](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/1441-build-an-array-with-stack-operations) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/1944-number-of-visible-people-in-a-queue) |
