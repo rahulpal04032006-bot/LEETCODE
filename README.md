@@ -45,6 +45,7 @@
 | [2351-first-letter-to-appear-twice](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/2351-first-letter-to-appear-twice) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
+| [3110-score-of-a-string](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/3110-score-of-a-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/3498-reverse-degree-of-a-string) |
 ## Stack
 |  |
