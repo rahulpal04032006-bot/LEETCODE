@@ -22,6 +22,7 @@
 | [0383-ransom-note](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0383-ransom-note) |
 | [0394-decode-string](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0402-remove-k-digits) |
+| [0424-longest-repeating-character-replacement](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0449-serialize-and-deserialize-bst](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0449-serialize-and-deserialize-bst) |
 | [0606-construct-string-from-binary-tree](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0606-construct-string-from-binary-tree) |
@@ -276,6 +277,7 @@
 | [0146-lru-cache](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0146-lru-cache) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0383-ransom-note](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0383-ransom-note) |
+| [0424-longest-repeating-character-replacement](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0454-4sum-ii](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0454-4sum-ii) |
 | [0652-find-duplicate-subtrees](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0652-find-duplicate-subtrees) |
@@ -407,6 +409,7 @@
 |  |
 | ------- |
 | [0413-arithmetic-slices](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0413-arithmetic-slices) |
+| [0424-longest-repeating-character-replacement](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0438-find-all-anagrams-in-a-string) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
