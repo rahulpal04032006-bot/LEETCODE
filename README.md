@@ -180,6 +180,7 @@
 | [1996-the-number-of-weak-characters-in-the-game](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/1996-the-number-of-weak-characters-in-the-game) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2784-check-if-array-is-good](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/2784-check-if-array-is-good) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -264,6 +265,7 @@
 | [1927-sum-game](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/1927-sum-game) |
 | [1996-the-number-of-weak-characters-in-the-game](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/1996-the-number-of-weak-characters-in-the-game) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/2410-maximum-matching-of-players-with-trainers) |
 ## Hash Table
 |  |
@@ -330,6 +332,7 @@
 | [1200-minimum-absolute-difference](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/1200-minimum-absolute-difference) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1996-the-number-of-weak-characters-in-the-game](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/1996-the-number-of-weak-characters-in-the-game) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 | [2784-check-if-array-is-good](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/2784-check-if-array-is-good) |
@@ -712,6 +715,7 @@
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [0875-koko-eating-bananas](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0875-koko-eating-bananas) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -894,6 +898,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0215-kth-largest-element-in-an-array) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0973-k-closest-points-to-origin](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0973-k-closest-points-to-origin) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Quickselect
 |  |
 | ------- |
