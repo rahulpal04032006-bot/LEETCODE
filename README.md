@@ -157,6 +157,7 @@
 | [0435-non-overlapping-intervals](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0435-non-overlapping-intervals) |
 | [0436-find-right-interval](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0436-find-right-interval) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0454-4sum-ii](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0454-4sum-ii) |
 | [0455-assign-cookies](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0455-assign-cookies) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
@@ -369,6 +370,7 @@
 | [0258-add-digits](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0258-add-digits) |
 | [0292-nim-game](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0292-nim-game) |
 | [0445-add-two-numbers-ii](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0445-add-two-numbers-ii) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [0836-rectangle-overlap](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0836-rectangle-overlap) |
