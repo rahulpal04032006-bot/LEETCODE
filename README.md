@@ -108,6 +108,7 @@
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0138-copy-list-with-random-pointer](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0138-copy-list-with-random-pointer) |
 | [0146-lru-cache](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0146-lru-cache) |
+| [0160-intersection-of-two-linked-lists](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0160-intersection-of-two-linked-lists) |
 | [0237-delete-node-in-a-linked-list](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0328-odd-even-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0445-add-two-numbers-ii) |
@@ -223,6 +224,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0031-next-permutation) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0160-intersection-of-two-linked-lists](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0160-intersection-of-two-linked-lists) |
 | [0165-compare-version-numbers](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0165-compare-version-numbers) |
 | [0345-reverse-vowels-of-a-string](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0345-reverse-vowels-of-a-string) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -295,6 +297,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0128-longest-consecutive-sequence) |
 | [0138-copy-list-with-random-pointer](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0138-copy-list-with-random-pointer) |
 | [0146-lru-cache](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0146-lru-cache) |
+| [0160-intersection-of-two-linked-lists](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0160-intersection-of-two-linked-lists) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0383-ransom-note](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0383-ransom-note) |
 | [0424-longest-repeating-character-replacement](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0424-longest-repeating-character-replacement) |
