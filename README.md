@@ -45,6 +45,7 @@
 | [1927-sum-game](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/1927-sum-game) |
 | [2000-reverse-prefix-of-word](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/2000-reverse-prefix-of-word) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/2053-kth-distinct-string-in-an-array) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2325-decode-the-message](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/2325-decode-the-message) |
 | [2351-first-letter-to-appear-twice](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/2351-first-letter-to-appear-twice) |
 | [2409-count-days-spent-together](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/2409-count-days-spent-together) |
@@ -211,6 +212,7 @@
 | [0258-add-digits](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0258-add-digits) |
 | [1441-build-an-array-with-stack-operations](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/1441-build-an-array-with-stack-operations) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/2181-merge-nodes-in-between-zeros) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/3304-find-the-k-th-character-in-string-game-i) |
