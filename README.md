@@ -189,6 +189,7 @@
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/2410-maximum-matching-of-players-with-trainers) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2784-check-if-array-is-good](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/2784-check-if-array-is-good) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
@@ -287,6 +288,7 @@
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/2410-maximum-matching-of-players-with-trainers) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/3789-minimum-cost-to-acquire-required-items) |
@@ -361,6 +363,7 @@
 | [1996-the-number-of-weak-characters-in-the-game](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/1996-the-number-of-weak-characters-in-the-game) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/2410-maximum-matching-of-players-with-trainers) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 | [2784-check-if-array-is-good](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/2784-check-if-array-is-good) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
