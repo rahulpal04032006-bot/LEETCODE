@@ -177,6 +177,7 @@
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1019-next-greater-node-in-linked-list](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/1019-next-greater-node-in-linked-list) |
 | [1200-minimum-absolute-difference](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/1200-minimum-absolute-difference) |
+| [1352-product-of-the-last-k-numbers](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/1352-product-of-the-last-k-numbers) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1441-build-an-array-with-stack-operations](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/1441-build-an-array-with-stack-operations) |
@@ -393,6 +394,7 @@
 | [0836-rectangle-overlap](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0836-rectangle-overlap) |
 | [0973-k-closest-points-to-origin](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0973-k-closest-points-to-origin) |
 | [1227-airplane-seat-assignment-probability](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/1227-airplane-seat-assignment-probability) |
+| [1352-product-of-the-last-k-numbers](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/1352-product-of-the-last-k-numbers) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1512-number-of-good-pairs](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/1512-number-of-good-pairs) |
 | [1903-largest-odd-number-in-string](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/1903-largest-odd-number-in-string) |
@@ -419,6 +421,7 @@
 | ------- |
 | [0848-shifting-letters](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0848-shifting-letters) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1352-product-of-the-last-k-numbers](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/1352-product-of-the-last-k-numbers) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3364-minimum-positive-sum-subarray](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/3364-minimum-positive-sum-subarray) |
 | [3903-smallest-stable-index-i](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/3903-smallest-stable-index-i) |
@@ -864,6 +867,7 @@
 | [0449-serialize-and-deserialize-bst](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0449-serialize-and-deserialize-bst) |
 | [0919-complete-binary-tree-inserter](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0919-complete-binary-tree-inserter) |
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
+| [1352-product-of-the-last-k-numbers](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/1352-product-of-the-last-k-numbers) |
 ## Iterator
 |  |
 | ------- |
@@ -993,4 +997,8 @@
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/0258-add-digits) |
+## Data Stream
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/rahulpal04032006-bot/LEETCODE/tree/master/1352-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
